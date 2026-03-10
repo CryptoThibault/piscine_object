@@ -1,5 +1,5 @@
 NAME = ex00
-SRCS = main.cpp
+SRCS = main.cpp Worker.cpp Shovel.cpp Hammer.cpp Workshop.cpp
 OBJS = $(SRCS:.cpp=.o)
 CXX = c++
 CXXFLAGS = -std=c++98 -Wall -Wextra -Werror
