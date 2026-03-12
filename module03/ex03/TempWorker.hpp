@@ -3,8 +3,7 @@
 
 #include "Employee.hpp"
 
-class TempWorker : public Employee
-{
+class TempWorker : public Employee {
 private:
     int registeredHours;
 
