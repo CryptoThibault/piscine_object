@@ -1,4 +1,4 @@
-# C++ Modern Object Pool Project
+# C++ Modern Object-Oriented Bootcamp
 
 This project is a comprehensive training program designed to master modern C++ programming and object-oriented concepts. Divided into six progressive modules, each module builds upon the previous one, focusing on different skills and principles essential for robust software development.
 
